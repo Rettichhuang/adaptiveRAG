@@ -1,0 +1,943 @@
+ess_steps,score_text,score_num,entropy_before,entropy_after,
+" Step 1 HOT AIROFF
+ Step 2 IF HOT AIR STILL OPEN and DUCT OVHT persists PACK 1OFF
+ Step 3 IF HOT AIR STILL OPEN and DUCT OVHT persists PACK 2OFF","1. Accuracy: 3
+   - The generated steps match the standard checklist accurately. The steps provided are consistent with the actions required for a COND HOT AIR FAULT scenario.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide any additional references or detailed explanations. They are straightforward and lack any further context or guidance.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist. There is no hallucinated information present.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include any unnecessary information or additional steps beyond what is required for the warning.
+
+Overall, the generated steps are accurate and concise but lack comprehensiveness in terms of additional explanations or references.",3 1 0 0,4.74877704,4.430138101,0.067099158
+Im sorry but the provided checklist for AUTO FLT RUD TRV LIM 1 does not contain any actionable steps It only mentions crew awareness and system status Therefore no specific actions can be extracted from the checklist,"1. Accuracy: 3 - The instruction accurately reflects the standard checklist for the AUTO FLT RUD TRV LIM 1 scenario, which only requires crew awareness and checking the system status.
+
+2. Comprehensiveness: 1 - The generated steps do not provide any reference or detailed explanations beyond stating that no specific actions are required.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist, with no hallucinated content.
+
+4. Conciseness: 0 - The response is concise and does not include unnecessary steps or information beyond what is required for the warning.
+
+Justification: The generated steps correctly identify that the checklist for AUTO FLT RUD TRV LIM 1 does not include actionable steps, maintaining accuracy and conciseness. However, it lacks comprehensiveness as it does not provide any additional context or explanation.",3 2 3 4 1,4.152406865,4.379131164,-0.054600694
+ Step 1 Crew awareness,"1. Accuracy: 3 - The instruction ""Crew awareness"" matches the standard checklist for the scenario, which is the first step in addressing the AUTO FLT RUD TRV LIM warning.
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanations beyond the basic instruction of ""Crew awareness.""
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist, with no hallucinated content.
+
+4. Conciseness: 0 - The generated step is concise and does not include any unnecessary information beyond what is required for the warning.
+
+Justification: The instruction accurately reflects the standard checklist and is concise, but it lacks comprehensiveness as it does not provide additional context or explanation. There is no hallucination present in the response.",3 1 0 0,4.152406865,3.368522528,0.188778307
+Im sorry but I cant provide the output based on the given input,"1. Accuracy: 1 - The generated response does not match the standard checklist for the scenario. It fails to provide any relevant instructions or actions related to the F/CTL ALTN LAW (PROT LOST) warning.
+
+2. Comprehensiveness: 1 - The response does not provide any reference or detailed explanations. It simply states an inability to provide output, which is not helpful in an emergency scenario.
+
+3. Hallucination: 0 - The response does not contain any incorrect information or hallucinations. It simply lacks any content related to the scenario.
+
+4. Conciseness: 0 - The response does not provide any unnecessary steps or additional information. It is concise but unhelpful, as it does not address the warning at all.
+
+Justification: The generated response fails to provide any actionable steps or relevant information for the F/CTL ALTN LAW (PROT LOST) warning. It does not align with the standard checklist, lacks comprehensiveness, and does not contain any hallucinated content. However, it is concise in its lack of content.",1 1 0 0,4.857704538,3.968623774,0.183024875
+ Step 1 MAX SPEED320 KT,"1. Accuracy: 1
+- The generated instruction ""Step 1: MAX SPEED...320 KT"" is incomplete and does not fully match the standard checklist for the scenario. The standard checklist includes additional details such as the note about stall warning, specific speed limits at different flight levels, and instructions for when landing gear is down.
+
+2. Comprehensiveness: 1
+- The generated steps lack detailed explanations or references. The standard checklist provides specific speed limits for various flight levels and additional notes, which are not included in the generated steps.
+
+3. Hallucination: 1
+- The response is incorrect and does not stem from the retrieved documents. The generated step is incomplete and does not align with the detailed instructions provided in the standard checklist.
+
+4. Conciseness: 0
+- The generated steps do not provide any additional unnecessary information. However, they are incomplete and lack the necessary details required for the current warning.
+
+Justification:
+The generated steps are incomplete and do not align with the standard checklist for the F/CTL ALTN LAW (PROT LOST) scenario. They lack comprehensiveness and accuracy, and there is a hallucination as the content does not stem from the retrieved documents. Additionally, the steps do not provide any unnecessary information, but they fail to include the necessary details.",1 320 1 1 0,4.857704538,3.844881935,0.20849819
+ Step 1 MAX SPEED320 KT,"1. Accuracy: 2
+- The generated instruction partially matches the standard checklist. It correctly identifies the maximum speed as 320 KT, which is consistent with the standard checklist. However, it does not include other critical steps such as the note about stall warning loss or the detailed IAS/M relationship table.
+
+2. Comprehensiveness: 1
+- The generated steps lack detailed explanations or references. It only provides a single step without any context or additional information that would be necessary for a comprehensive understanding of the situation.
+
+3. Hallucination: 0
+- The response is not incorrect, as it correctly states the maximum speed, which is derived from the standard checklist. There is no evidence of hallucination in the provided step.
+
+4. Conciseness: 0
+- The generated step is concise and does not include any unnecessary information. However, it is overly concise to the point of omitting necessary steps and details for the situation.
+
+Justification:
+The generated instruction captures a key element of the standard checklist (maximum speed) but fails to provide a comprehensive or detailed response. It lacks additional necessary steps and context, which are crucial for handling the emergency scenario effectively.",2 2 3 4,4.857704538,3.844881935,0.20849819
+" Step 1 MAN PITCH TRIM USE
+ Step 2 MAX SPEED 32077
+ Step 3 MANEUVER WITH CARE","1. Accuracy: 2
+   - The generated steps partially match the standard checklist for the scenario. Steps 1, 2, and 3 are correct, but the instruction is missing other critical steps such as ""USE SPD BRK WITH CARE"" and specific landing procedures.
+
+2. Comprehensiveness: 1
+   - The generated steps lack detailed explanations or references that are present in the standard checklist, such as the reason for speed limitations or the use of manual thrust.
+
+3. Hallucination: 0
+   - The response does not contain any incorrect information that is not derived from the standard checklist.
+
+4. Conciseness: 1
+   - The steps provided are necessary but incomplete for the current warning. There are no additional unnecessary steps, but the response lacks the full set of required actions.
+
+Justification: The generated steps are accurate but incomplete, lacking comprehensiveness and detail. They do not provide unnecessary information but fail to cover all necessary procedures for the warning scenario.",2 2 2 3 4,4.920505042,4.271348352,0.131928874
+" Step 1 Use standby altimeter to change barometer setting to the actual barometer setting
+ Step 2 Disregard weather radar image if it remains displayed","1. Accuracy: 3
+   - The generated steps accurately match the standard checklist for the scenario. Step 1 correctly instructs the use of the standby altimeter to adjust the barometer setting, and Step 2 advises disregarding the weather radar image if it remains displayed, which aligns with the standard procedure.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references for the actions to be taken. They are concise but lack the depth and context that would be beneficial for comprehensive understanding.
+
+3. Hallucination: 0
+   - The response is correct and derived from the standard checklist. There is no hallucination present in the generated steps.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include unnecessary information. They focus solely on the actions required for the specific warning without additional steps.
+
+Justification: The instructions are accurate and concise, directly addressing the necessary actions for the AUTO FLT FCU 1+2 FAULT scenario. However, they lack comprehensive detail and explanation, which would enhance understanding and execution of the steps.",3 2 1 0 0 2,4.606295387,4.064681367,0.117581261
+" Step 1 Use manual pitch trim
+ Step 2 Do not exceed max speed 32077
+ Step 3 Maneuver with care using small control inputs
+ Step 4 Use speedbrake with care","1. Accuracy: 3
+   - The generated steps accurately match the standard checklist for the F/CTL DIRECT LAW scenario. Each step corresponds to the key points outlined in the standard checklist.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references to the FCOM or other documents. They are concise and lack additional context or guidance that would enhance understanding.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no hallucinated information present.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include unnecessary information beyond what is required for the warning. They focus solely on the essential actions needed for the scenario.
+
+Justification: The evaluation reflects that the generated steps are accurate and concise, directly aligning with the standard checklist. However, they lack comprehensiveness in terms of providing additional explanations or references, which could be beneficial for a more thorough understanding of the procedures.",3 1 0 0,4.920505042,4.370364728,0.11180566
+" Step 1 FAC 1  2  OFF THEN ON
+ Step 2 IF UNSUCCESSFUL FAC 1  2  OFF","1. Accuracy: 1 - The instruction does not match the standard checklist for the specific scenario of ""AUTO FLT FAC 2 FAULT."" The generated steps incorrectly address ""FAC 1 + 2"" instead of focusing on ""FAC 2"" only.
+
+2. Comprehensiveness: 1 - The generated steps do not provide any reference or detailed explanations specific to the ""AUTO FLT FAC 2 FAULT"" scenario. It lacks context and necessary information.
+
+3. Hallucination: 1 - The response is incorrect and does not stem from the retrieved documents. The steps provided are not applicable to the specific fault mentioned.
+
+4. Conciseness: 0 - The generated steps do not provide any additional unnecessary steps for the current warning. However, they are incorrect and not concise in addressing the specific fault.
+
+Justification: The generated steps are inaccurate and do not align with the standard checklist for the specific fault scenario. They lack comprehensiveness and context, and the response appears to be a hallucination as it does not derive from the correct documentation. The steps are not concise as they do not address the specific fault correctly.",1 1 2 1 3 4,4.783628932,3.620975162,0.243048486
+" Step 1 FAC 1  2OFF THEN ON
+ Step 2 RUD WITH CARE ABV 160 KT","1. Accuracy: 3 - The generated instruction matches the standard checklist accurately, addressing the correct steps for the scenario.
+2. Comprehensiveness: 1 - The generated steps do not provide detailed explanations or references beyond the basic checklist items.
+3. Hallucination: 0 - The response is correct and does not contain any information that is not derived from the standard checklist.
+4. Conciseness: 1 - The generated steps are concise but omit the ""INOP SYS - RUD TRV LIM"" step from the standard checklist, which could be considered necessary information.
+
+Justification: The generated steps accurately reflect the standard checklist but lack comprehensive explanations or references. There is no hallucination, but the omission of a checklist item affects the conciseness score.",3 1 0 1,4.752846703,4.156564762,0.125457853
+" Step 1 MAX SPEED 32077
+ Step 2 MAN PITCH TRIM USE
+ Step 3 MANEUVER WITH CARE","1. Accuracy: 2
+   - The generated steps partially match the standard checklist but are incomplete. The standard checklist includes additional steps and notes that are not present in the generated instructions.
+
+2. Comprehensiveness: 1
+   - The generated steps lack detailed explanations and references that are present in the standard checklist, such as the note about GPWS alerts and the use of speed brakes.
+
+3. Hallucination: 0
+   - The response does not contain any incorrect information that is not derived from the standard checklist. It is a subset of the correct steps.
+
+4. Conciseness: 1
+   - The generated steps are concise but omit necessary information for the warning scenario. They do not provide additional unnecessary steps but fail to include all required steps and notes.
+
+Justification: The generated steps cover some key points but are not fully aligned with the standard checklist. They lack comprehensiveness and omit important details and notes that are crucial for handling the F/CTL DIRECT LAW scenario.",2 1 0 1,4.920505042,4.271348352,0.131928874
+" Step 1 BLOWEROVRD
+ Step 2 EXTRACTOVRD
+ Step 3 BARO REFCHECK","1. Accuracy: 2
+   - The generated steps partially match the standard checklist for the ELEC DC BUS 1 + 2 FAULT scenario. However, the specific warning provided is for ELEC DC BUS 2 FAULT, which may not require all the steps listed for a dual fault. The steps provided do not address the specific warning of AIR DATA SWTG. F/O 3.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references for each action. They simply list the actions without context or further instruction.
+
+3. Hallucination: 0
+   - The steps provided are derived from the standard checklist for ELEC DC BUS faults, so there is no hallucination present.
+
+4. Conciseness: 0
+   - The steps provided are relevant to the ELEC DC BUS fault scenario and do not include unnecessary actions beyond what is typically required for such a fault.
+
+Justification: The generated steps are partially accurate but lack comprehensiveness and do not address all aspects of the specific warning. They are concise and do not include unnecessary information, but they also do not provide additional context or explanation.",2 2 3 1 0 0,4.755228334,4.231832371,0.110067472
+" Step 1 FUEL MODE SEL MAN
+ Step 2 FUEL X FEED ON
+ Step 3 TK PUMP 1 on side with LO LVL OFF
+ Step 4 TK PUMP 2 on side with LO LVL OFF","1. Accuracy: 3 
+   - The generated steps match the standard checklist for the scenario accurately. The instructions provided are consistent with the procedure outlined for the FUEL L (R) WING TK LO LVL warning.
+
+2. Comprehensiveness: 1 
+   - The generated steps do not provide any reference or detailed explanations. They are straightforward and lack additional context or notes that might be helpful for understanding the procedure.
+
+3. Hallucination: 0 
+   - The response is correct and aligns with the standard checklist, with no hallucinated information present.
+
+4. Conciseness: 0 
+   - The generated steps are concise and do not include any unnecessary information or additional steps beyond what is required for the current warning.
+
+Justification: The generated steps are accurate and concise, directly following the standard checklist without deviation or unnecessary additions. However, they lack comprehensiveness in terms of providing additional context or explanations that could aid in understanding the procedure.",3 1 0 0,4.722816554,4.275014013,0.09481684
+" Step 1 FUEL MODE SEL MAN
+ Step 2 FUEL X FEED ON
+ Step 3 TK PUMP 1 on side with LO LVL OFF
+ Step 4 TK PUMP 2 on side with LO LVL OFF","1. Accuracy: 3
+   - The generated steps match the standard checklist for the scenario provided. The instructions are correctly aligned with the procedure for a low-level warning in the wing tank.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide any reference or detailed explanations. They are straightforward and lack additional context or notes that could be helpful, such as the note about the LO PR warning.
+
+3. Hallucination: 0
+   - The response is correct and does not include any information that is not derived from the standard checklist. There is no hallucination present.
+
+4. Conciseness: 0
+   - The generated steps do not include any unnecessary information or additional steps beyond what is required for the current warning. They are concise and to the point.
+
+Justification: The generated steps are accurate and concise, directly following the standard checklist without any extraneous information. However, they lack comprehensiveness as they do not provide additional context or notes that could be useful for understanding the procedure fully.",3 1 0 0,4.722816554,4.275014013,0.09481684
+" Step 1 VHF 2 or 3 USE
+ Step 2 AUDIO SWTG SELECT
+ Step 3 BARO REF CHECK
+ Step 4 GPWS OFF","1. Accuracy: 3 - The generated steps match the standard checklist for the ELEC DC ESS BUS FAULT scenario accurately.
+
+2. Comprehensiveness: 1 - The generated steps do not provide any reference or detailed explanations for the actions to be taken, such as why each step is necessary or how to perform them.
+
+3. Hallucination: 0 - The response is correct and does not contain any information that is not derived from the standard checklist.
+
+4. Conciseness: 0 - The generated steps do not include any unnecessary information or additional steps beyond what is required for the current warning.
+
+Justification: The generated steps are accurate and concise, directly reflecting the standard checklist without any extraneous information. However, they lack comprehensiveness as they do not include explanations or references that could aid in understanding the context or execution of the steps.",3 1 0 0,4.659272892,4.2763297,0.082189475
+" Step 1 VHF 2 or 3 USE
+ Step 2 AUDIO SWTG SELECT
+ Step 3 BARO REF CHECK","1. Accuracy: 2 - The generated steps partially match the standard checklist for the ELEC DC ESS BUS FAULT scenario, but the warning is for ELEC DC ESS BUS SHED, which may have different procedures. The generated steps do not include the GPWS: OFF step, which is part of the standard checklist for the fault scenario.
+
+2. Comprehensiveness: 1 - The generated steps do not provide detailed explanations or references for the actions to be taken. They are listed without context or additional information that might be necessary for understanding the specific actions required for the ELEC DC ESS BUS SHED warning.
+
+3. Hallucination: 0 - The response does not introduce incorrect information that is unrelated to the retrieved documents. The steps provided are derived from the standard checklist for a similar scenario, though they may not be entirely applicable to the specific warning given.
+
+4. Conciseness: 1 - The generated steps are concise and do not include unnecessary information. However, they omit a step that is part of the standard checklist for the ELEC DC ESS BUS FAULT scenario, which may or may not be relevant to the ELEC DC ESS BUS SHED warning.
+
+Justification: The generated steps are somewhat accurate for a related scenario but lack comprehensiveness and omit a potentially relevant step. They do not introduce unrelated information, but they also do not provide detailed explanations or context.",2 1 0 1,4.659272892,4.239524108,0.090088903
+Based on the provided input the checklist does not contain specific actionable steps related to the current warning ENG 1 EPR MODE FAULT The checklist provided is for a different fault ENG 12 PROBES FAULT and only mentions crew awareness without specific actions Therefore no immediate and critical actions for safety can be derived from the given checklist for the current warning,"1. Accuracy: 1 - The instruction does not match the standard checklist for the scenario. The generated steps do not address the specific warning ""ENG 1 EPR MODE FAULT.""
+
+2. Comprehensiveness: 1 - The generated steps do not provide detailed explanations or references related to the specific warning ""ENG 1 EPR MODE FAULT.""
+
+3. Hallucination: 0 - The response correctly identifies that the provided checklist does not contain specific steps for the warning ""ENG 1 EPR MODE FAULT,"" and there is no incorrect information derived from external sources.
+
+4. Conciseness: 0 - The generated steps do not provide unnecessary information or additional steps beyond acknowledging the mismatch with the checklist.
+
+Justification: The evaluation reflects that the generated steps do not address the specific warning ""ENG 1 EPR MODE FAULT"" and lack detailed explanations or references. The response accurately identifies the absence of relevant checklist steps without introducing unrelated information.",1 2 1 0 4 1,4.527911488,4.448929865,0.017443279
+" Step 1 LAND ASAP
+ Step 2 ALL TK PUMPSON
+ Step 3 FUEL X FEEDOFF","1. Accuracy: 2 - The generated steps partially match the standard checklist but omit the step regarding the FUEL MODE SEL when the center tank is not empty.
+
+2. Comprehensiveness: 1 - The steps do not provide any reference or detailed explanations for the actions to be taken.
+
+3. Hallucination: 0 - The response is not entirely correct, but it does not include information that is not derived from the standard checklist.
+
+4. Conciseness: 1 - The generated steps are concise but miss a necessary step (FUEL MODE SEL) for the specific warning scenario.
+
+Justification: The generated steps are mostly accurate but incomplete as they miss a critical step from the standard checklist. They lack comprehensiveness due to the absence of explanations or references. There is no hallucination present, but the omission of a step affects the overall accuracy. The steps are concise but not fully aligned with the checklist requirements.",2 1 0 1,4.580801684,4.029866481,0.120270477
+" Step 1 LAND ASAP
+ Step 2 ALL TK PUMPS ON
+ Step 3 FUEL X FEED OFF","1. Accuracy: 2
+   - The generated steps partially match the standard checklist. It correctly includes ""LAND ASAP,"" ""ALL TK PUMPS: ON,"" and ""FUEL X FEED: OFF."" However, it omits the step ""FUEL MODE SEL (if center tank not empty): MAN,"" which is crucial if the center tank is not empty.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide any reference or detailed explanations for the actions. It simply lists the steps without context or conditions, such as when to set the FUEL MODE SEL to MAN.
+
+3. Hallucination: 0
+   - The response does not include any information that is not derived from the standard checklist. It only omits a step but does not add incorrect information.
+
+4. Conciseness: 0
+   - The generated steps do not include any unnecessary information or additional steps beyond what is required for the warning. However, it is missing a necessary step, which affects its overall utility.
+
+Justification:
+The generated steps are mostly accurate but incomplete, lacking the necessary detail for comprehensive understanding and action. The omission of a critical step reduces its accuracy and comprehensiveness. There is no hallucination, as the steps provided are correct but incomplete. The response is concise, as it does not include extraneous information.",2 1 0 0,4.580801684,3.970305075,0.133272875
+" Step 1 LAND ASAP
+ Step 2 ALL TK PUMPSON
+ Step 3 FUEL X FEEDOFF","1. Accuracy: 2
+- The generated steps partially match the standard checklist. Step 1 and Step 3 are correct, but Step 2 is missing the condition regarding the center tank and the FUEL MODE SEL step is omitted.
+
+2. Comprehensiveness: 1
+- The generated steps do not provide any reference or detailed explanations for the actions to be taken.
+
+3. Hallucination: 0
+- The response is not completely correct, but it does not contain any information that is not derived from the standard checklist.
+
+4. Conciseness: 1
+- The generated steps are concise and do not include unnecessary information, but they also omit a necessary step regarding the FUEL MODE SEL.
+
+Justification:
+The generated steps are mostly aligned with the standard checklist but lack the comprehensive detail needed for full accuracy. The omission of the FUEL MODE SEL step when the center tank is not empty is a significant oversight. The instructions are concise but at the expense of completeness.",2 3 2 3 4,4.580801684,4.029866481,0.120270477
+" Step 1 LAND ASAP
+ Step 2 ALL TK PUMPS ON
+ Step 3 FUEL X FEED OFF","1. Accuracy: 2
+   - The instruction partially matches the standard checklist. It includes the correct steps for ""LAND ASAP,"" ""ALL TK PUMPS: ON,"" and ""FUEL X FEED: OFF,"" but it omits the step regarding ""FUEL MODE SEL (if center tank not empty): MAN.""
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide any reference or detailed explanations. They are listed without context or additional information that might be helpful for understanding or execution.
+
+3. Hallucination: 0
+   - The response does not contain any incorrect information that is not derived from the standard checklist. It simply omits a step, but does not introduce any incorrect or unrelated steps.
+
+4. Conciseness: 0
+   - The generated steps do not include any unnecessary information or additional steps beyond what is required for the warning. However, it is missing a necessary step, which affects its overall completeness.
+
+Justification: The generated steps are mostly accurate but incomplete, lacking one critical step from the standard checklist. They are concise but not comprehensive, as they do not provide any additional context or explanation. There is no hallucination present, as the steps are derived from the checklist, albeit incomplete.",2 1 0 0,4.580801684,3.970305075,0.133272875
+" Step 1 LAND ASAP
+ Step 2 AFT ISOL VALVE OFF
+ Step 3 AGENT DISCH","1. Accuracy: 3
+   - The generated steps match the standard checklist for the scenario. The steps to ""LAND ASAP,"" turn the ""AFT ISOL VALVE: OFF,"" and ""AGENT: DISCH"" are correctly listed as per the standard procedure.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references. The instructions lack the additional notes and conditions provided in the standard checklist, such as actions to take if the warning is displayed on the ground or the expectations after agent discharge.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no hallucinated content.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include unnecessary information for the current warning. However, they also omit important notes and conditions that could be relevant, such as instructions for ground scenarios and expectations after agent discharge.
+
+Overall, the generated steps are accurate and concise but lack comprehensiveness in terms of additional notes and conditions that are part of the standard checklist.",3 1 0 0,4.595464091,4.060985056,0.11630578
+" Step 1 THR LEVER affected IDLE
+ Step 2 ENG MASTER affected OFF
+ Step 3 ENG FIRE PB affected PUSH
+ Step 4 AGENT 1 AFT 10 S DISCH
+ Step 5 ATC NOTIFY","1. Accuracy: 3
+- The generated steps accurately match the standard checklist for the ENG 1 FIRE warning scenario. Each step corresponds correctly to the checklist items provided.
+
+2. Comprehensiveness: 2
+- The generated steps provide a clear and concise reference to the standard procedure without detailed explanations, which is appropriate for a checklist format.
+
+3. Hallucination: 0
+- There is no hallucination present. The steps are correct and derived from the standard checklist provided.
+
+4. Conciseness: 0
+- The generated steps are concise and do not include any unnecessary information beyond what is required for the ENG 1 FIRE warning scenario.
+
+Justification:
+The generated steps are accurate, comprehensive in terms of referencing the checklist, free from hallucination, and concise, adhering strictly to the necessary actions without additional information.",3 2 3 4 1,4.716032906,4.472248437,0.051692699
+" Step 1 APU FIRE PBPUSH
+ Step 2 AGENT AFT 10 SDISCH
+ Step 3 MASTER SWOFF","1. Accuracy: 3 - The generated steps match the standard checklist for the APU FIRE scenario accurately.
+2. Comprehensiveness: 1 - The generated steps do not provide detailed explanations or references for each action.
+3. Hallucination: 0 - The response is correct and does not contain any hallucinated information.
+4. Conciseness: 0 - The generated steps do not include any unnecessary information or additional steps beyond what is required for the warning.
+
+Justification: The generated steps accurately follow the standard checklist for an APU FIRE scenario, ensuring that the necessary actions are taken. However, the steps lack detailed explanations or references that could provide additional context or understanding. There is no hallucinated information, and the steps are concise, focusing solely on the required actions.",3 1 0 0,4.62493646,4.237526613,0.083765442
+ Step 1 TK PUMP affected OFF,"1. Accuracy: 2 - The instruction partially matches the standard checklist for the scenario. It correctly identifies the action to take (turning off the affected TK PUMP), but it does not specify which pump (1 or 2) should be turned off, which is crucial given the warning involves both pumps.
+
+2. Comprehensiveness: 1 - The generated steps do not provide any reference or detailed explanations. It simply states the action without any context or additional information that might be necessary for a complete understanding of the situation.
+
+3. Hallucination: 0 - The response is not incorrect and does not contain information that is not derived from the standard checklist. It is a simplified version of the correct procedure.
+
+4. Conciseness: 0 - The generated steps do not provide any additional unnecessary steps. It is concise but lacks the necessary detail to fully address the warning.
+
+Justification: The generated steps are partially correct but lack specificity and detail. They do not fully align with the standard checklist, which requires identifying and addressing both affected pumps. Additionally, there is no explanation or context provided, which would be beneficial for comprehensiveness. The response is concise and does not include extraneous information.",2 2 1 0 0,4.044530029,3.79790269,0.060977997
+" Step 1 TK PUMP 1 affected OFF
+ Step 2 TK PUMP 2 affected OFF
+ Step 3 PROC GRVTY FUEL FEEDING","1. Accuracy: 2
+   - The generated steps partially match the standard checklist for the scenario. The steps to turn off the affected tank pumps and apply gravity fuel feeding are correct, but the instruction to set the FUEL MODE SEL to MAN if the center tank is not feeding is missing.
+
+2. Comprehensiveness: 1
+   - The generated steps lack detailed explanations or references that are present in the standard checklist, such as the rationale for setting the FUEL MODE SEL to MAN or the conditions under which gravity fuel feeding should be applied.
+
+3. Hallucination: 0
+   - The response does not contain any hallucinated information. The steps provided are derived from the standard checklist, even though they are incomplete.
+
+4. Conciseness: 0
+   - The generated steps do not provide any additional unnecessary steps. They are concise but lack completeness.
+
+Overall, the generated steps are partially accurate but lack comprehensiveness and completeness compared to the standard checklist.",2 1 0 0,4.930635593,4.374121958,0.112868539
+ Step 1 Consider descending to a lower altitude andor increasing Mach to increase Total Air Temperature TAT,"1. Accuracy: 3 - The instruction matches the standard checklist for the scenario in flight, which is to consider descending to a lower altitude and/or increasing Mach to increase Total Air Temperature (TAT).
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanations. It simply states the action to be taken without further elaboration.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist, with no hallucinated information.
+
+4. Conciseness: 0 - The generated step is concise and directly addresses the warning without providing unnecessary additional steps or information.
+
+Justification: The generated step accurately reflects the standard procedure for the given warning in flight, but lacks comprehensiveness as it does not include any references or detailed explanations. There is no hallucination, and the step is concise, focusing solely on the necessary action.",3 1 0 0,4.477071552,4.0934747,0.085680304
+" Step 1 ENG F FLOW affected side INCREASE
+ Step 2 Disconnect autothrust Adjust the thrust lever to increase fuel flow through the IDG oil heat exchanger and decrease the temperature of the fuel returning to the outer cell","1. Accuracy: 3
+   - The generated steps accurately match the standard checklist for the scenario of ""FUEL L INNER TK HI TEMP"" in flight, specifically addressing the increase of engine fuel flow and adjustment of thrust lever.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references beyond the immediate actions to be taken.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist without introducing any incorrect information.
+
+4. Conciseness: 0
+   - The steps provided are necessary and directly relevant to the warning without any additional or unnecessary information.
+
+Justification: The instructions are accurate and concise, directly addressing the necessary actions for the given warning. However, they lack comprehensive details or references that could enhance understanding or provide additional context. There is no hallucination present, as the steps are correctly derived from the standard checklist.",3 1 0 0,4.742362204,4.35115565,0.082491918
+" Step 1 Affected PUMPS  OFF
+ Step 2 YELLOW ELEC PUMP  ON
+ Step 3 MANEUVER WITH CARE","1. Accuracy: 2
+- The generated steps partially match the standard checklist. It correctly identifies turning off the affected pumps and turning on the yellow electric pump, but it does not address the full scope of the checklist, such as the specific conditions under which the yellow electric pump should be turned on and the subsequent steps if the yellow system is not recovered.
+
+2. Comprehensiveness: 1
+- The generated steps lack detailed explanations and references to the full procedure, such as the implications of the flight control alternate law, speed limitations, and landing procedures.
+
+3. Hallucination: 0
+- The response is derived from the standard checklist and does not introduce information that is not present in the retrieved documents.
+
+4. Conciseness: 1
+- The generated steps are concise but omit necessary steps and conditions from the standard checklist, such as the specific conditions for turning on the yellow electric pump and the actions to take if the yellow system is not recovered.
+
+Justification:
+The generated steps provide a basic response to the warning but lack the depth and detail required for comprehensive flight operation instructions. They do not fully align with the standard checklist, missing critical steps and conditions necessary for accurate and safe operation.",2 1 0 1,4.879784632,4.342420268,0.110120508
+" Step 1 Affected PUMPS  OFF
+ Step 2 YELLOW ELEC PUMP  ON
+ Step 3 MANEUVER WITH CARE","1. Accuracy: 2
+- The generated steps partially match the standard checklist. It correctly identifies turning off the affected pumps and turning on the yellow electric pump, but it does not specify the condition under which the yellow electric pump should be turned on (i.e., if the yellow system is lost by ENG 2 PUMP LO PR). It also omits the instruction to land as soon as possible.
+
+2. Comprehensiveness: 1
+- The generated steps lack detailed explanations and references to the consequences of the hydraulic failure or further actions if the yellow system is not recovered. It does not provide comprehensive guidance for the scenario.
+
+3. Hallucination: 0
+- The response is not entirely correct, but it does not introduce information that is not derived from the standard checklist. It is a simplified version of the checklist without adding incorrect information.
+
+4. Conciseness: 1
+- The generated steps are concise but omit necessary details for the specific warning. It provides only the initial actions without additional steps or context that are crucial for handling the situation comprehensively.
+
+Justification:
+The generated steps provide a basic response to the warning but lack the depth and detail required for a complete and accurate checklist. They miss critical conditions and subsequent actions necessary for handling the hydraulic system failure effectively.",2 2 3 4,4.879784632,4.342420268,0.110120508
+ Step 1 BLUE ELEC PUMP OFF,"1. Accuracy: 3 - The instruction ""BLUE ELEC PUMP: OFF"" matches the standard checklist for the scenario of HYD B ELEC PUMP OVHT.
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanations beyond the immediate action.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist, with no hallucinated information.
+
+4. Conciseness: 0 - The generated step is concise and does not include any unnecessary information for the current warning.
+
+Justification: The instruction accurately reflects the standard procedure for the given warning, but lacks additional context or explanation that could enhance understanding. The response is concise and free from errors or extraneous details.",3 1 0 0,4.743697686,3.613337314,0.238286764
+" Step 1 ENG MODE SEL  IGN
+ Step 2 THR LEVER affected engine  IDLE
+ Step 3 ENG affected RELIGHT  INITIATE","1. Accuracy: 3
+   - The generated steps match the standard checklist for an engine failure in flight. The steps include setting the engine mode selector to IGN, moving the throttle lever to idle, and initiating an engine relight, which are all appropriate actions for this scenario.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references. The standard checklist includes additional information and notes that are not present in the generated steps.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no information that is incorrect or not derived from the checklist.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include unnecessary information or steps that are not relevant to the current warning.
+
+Justification:
+The generated steps accurately reflect the initial actions required for an engine failure in flight, as per the standard checklist. However, they lack the detailed explanations and additional notes provided in the checklist, which could be beneficial for a comprehensive understanding of the situation. The response is concise and free from hallucinations, focusing solely on the necessary actions.",3 1 0 0,4.726739393,4.260099948,0.098723328
+ Step 1 Crew awareness,"1. Accuracy: 2 - The generated step ""Crew awareness"" is part of the standard checklist, but it is not complete. The standard checklist includes additional information about the status and inoperative systems, which are not mentioned in the generated step.
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanations. It only mentions ""Crew awareness"" without elaborating on what actions should be taken or what the crew should be aware of.
+
+3. Hallucination: 0 - The response is not incorrect, but it is incomplete. The step ""Crew awareness"" is derived from the standard checklist, so there is no hallucination.
+
+4. Conciseness: 0 - The generated step does not provide any additional unnecessary steps. It is concise but lacks completeness.
+
+Justification: The generated step is a part of the standard checklist but is incomplete and lacks detail. It does not provide any additional unnecessary information, but it also does not offer comprehensive guidance for the scenario.",2 1 0 0,4.133442211,3.368522528,0.185056339
+Based on the provided parameters and checklist no specific actions are required as there is no current warning or indication of an emergency situation,"1. Accuracy: 1
+   - The generated steps do not match the standard checklist for the scenario. The checklist provides specific actions to be taken in case of ACT unusable situations, but the generated steps incorrectly state that no specific actions are required.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide any reference or detailed explanations related to the checklist. It lacks the necessary information that should be included according to the standard procedure.
+
+3. Hallucination: 1
+   - The response is incorrect and does not stem from the retrieved documents. The generated steps claim that no actions are required, which is not supported by the standard checklist.
+
+4. Conciseness: 0
+   - The generated steps do not provide any additional unnecessary steps. However, they fail to include the necessary steps from the checklist, which is a significant omission.
+
+Justification: The generated steps fail to address the specific actions required in the event of ACT unusable situations as outlined in the standard checklist. They incorrectly state that no actions are needed, lacking both accuracy and comprehensiveness. Additionally, the response does not derive from the provided checklist, leading to a hallucination score of 1.",1 1 1 0,4.822789812,3.987753737,0.173143783
+" Step 1 BRAKE PEDALS  PRESS
+ Step 2 REV  MAX
+ Step 3 BRAKE PEDALS  RELEASE
+ Step 4 ASKID  NW STRG  OFF
+ Step 5 BRAKE PEDALS  PRESS
+ Step 6 MAX BRK PR  1000 PSI
+ Step 7 If STILL NO BRAKING PARKING BRAKE  USE","1. Accuracy: 2
+   - The generated steps mostly align with the standard checklist for ""Loss of Braking,"" but they do not address the specific warning ""BRAKES RELEASED."" The steps provided are more general for a loss of braking scenario rather than the specific warning given.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references for each action, which would be beneficial for understanding the rationale behind each step.
+
+3. Hallucination: 0
+   - The steps are correct and derived from the standard checklist for ""Loss of Braking,"" so there is no hallucination present.
+
+4. Conciseness: 1
+   - The steps provided are relevant to a loss of braking scenario, but they do not specifically address the ""BRAKES RELEASED"" warning. There is a lack of specificity to the current warning, which could be seen as additional unnecessary steps for the specific warning.
+
+Justification: The generated steps are generally accurate for a loss of braking scenario but do not specifically address the ""BRAKES RELEASED"" warning. They lack detailed explanations and are not tailored to the specific warning, which affects their comprehensiveness and conciseness.",2 1 0 1,4.723586937,4.203116672,0.110185389
+" Step 1 ATT HDG SWTG CAPT
+ Step 2 GPWS TERR pushbutton OFF","1. Accuracy: 3
+   - The generated steps match the standard checklist for a NAV IR 1 FAULT scenario. The instructions to switch the ATT HDG SWTG to CAPT and turn off the GPWS TERR pushbutton are correct.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references to additional procedures, such as the IR ALIGNMENT IN ATT MODE procedure, which could be relevant.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no hallucinated content.
+
+4. Conciseness: 0
+   - The steps provided are necessary and directly related to the NAV IR 1 FAULT warning, with no additional or irrelevant information included.
+
+Justification: The generated steps are accurate and concise, directly addressing the NAV IR 1 FAULT warning. However, they lack comprehensiveness as they do not include references or detailed explanations that could aid in understanding the situation better.",3 2 3 4 1,4.767932652,4.234895383,0.111796308
+Im sorry but I cannot provide actionable steps based on the given input The checklist provided for the NAV TCAS FAULT only indicates Crew awareness without specific actions Please refer to your aircrafts operational manual or consult with your flight operations team for guidance on handling this warning,"1. Accuracy: 1
+   - The instruction does not match the standard checklist for the scenario. The generated steps do not address the specific warnings ""NAV IR 1 FAULT"" and ""TCAS FAULT"" as per the standard checklist.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide any reference or detailed explanations. It merely states an inability to provide actionable steps without offering further guidance or context.
+
+3. Hallucination: 0
+   - The response does not contain incorrect information that is not derived from the retrieved documents. It simply acknowledges the lack of specific actions in the provided checklist.
+
+4. Conciseness: 1
+   - The generated steps include unnecessary information by stating the inability to provide actionable steps, which is not directly relevant to addressing the specific warnings. It could have been more concise by directly advising to consult the operational manual.
+
+Justification:
+The response fails to provide accurate and comprehensive guidance for the specific warnings. It does not hallucinate information but lacks conciseness by including unnecessary disclaimers instead of directing the user to the appropriate resources.",1 2 3 4,3.840402547,4.362132804,-0.135853013
+" Step 1 AC POS CHECK
+ Step 2 CHECK navigation accuracy using raw data
+ Step 3 If the check is negative use HDGTRK mode and raw data","1. Accuracy: 2
+- The generated steps partially match the standard checklist for the NAV FM/GPS POS DISAGREE scenario, but they do not fully address the specific conditions outlined in the checklist, such as actions during takeoff, ILS/LOC approach, or Non Precision Approach.
+
+2. Comprehensiveness: 1
+- The generated steps lack detailed explanations or references to specific conditions and actions required for different phases of flight as outlined in the standard checklist.
+
+3. Hallucination: 0
+- The response does not contain information that is incorrect or unrelated to the retrieved documents. It is a simplified version of the checklist.
+
+4. Conciseness: 1
+- The generated steps provide basic actions but omit necessary details for specific scenarios, which could be considered as missing rather than additional steps. However, it does not present unnecessary information.
+
+Justification:
+The generated steps are a simplified version of the standard checklist, missing specific actions for different flight phases and lacking detailed explanations or references. While they are not incorrect, they are incomplete for the scenario described.",2 1 0 1,4.751436425,4.548819321,0.042643337
+" Step 1 ATT HDG SWTG NORM
+ Step 2 GPWS TERR pushbutton SWITCH OFF","1. Accuracy: 3
+   - The generated steps match the standard checklist for the scenario of NAV IR 1+3 FAULT. The instruction to set ATT HDG SWTG to NORM and switch off the GPWS TERR pushbutton is accurate.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references to additional procedures, such as the IR ALIGNMENT IN ATT MODE procedure, which would enhance understanding and completeness.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no hallucinated information.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include unnecessary information beyond what is required for the current warning.
+
+Justification: The generated steps accurately reflect the standard checklist for the NAV IR 1+3 FAULT scenario, ensuring operational correctness. However, the steps lack comprehensiveness as they do not provide additional context or references that could aid in understanding the situation better. The response is free from hallucinations and is concise, focusing only on the necessary actions.",3 3 1 0 0 3,4.767932652,4.355528624,0.086495355
+ Step 1 ATT HDG SWTG if IR 3 in use NORM,"1. Accuracy: 3
+   - The instruction matches the standard checklist for the scenario of an IR 3 fault. The step provided is correct and aligns with the standard procedure.
+
+2. Comprehensiveness: 1
+   - The generated step lacks detailed explanations or references that could aid in understanding the procedure better. It only provides the basic action without additional context.
+
+3. Hallucination: 0
+   - The response is correct and does not contain any information that is not derived from the standard checklist.
+
+4. Conciseness: 0
+   - The generated step is concise and does not include any unnecessary information beyond what is required for the IR 3 fault scenario.
+
+Justification: The instruction accurately reflects the standard procedure for an IR 3 fault, but it could be improved by providing more comprehensive details or references to aid understanding. It is concise and free from hallucinations.",3 2 3 4 3,4.767932652,4.001712212,0.160702866
+" Step 1 AC POS CHECK
+ Step 2 CHECK navigation accuracy using raw data
+ Step 3 If the check is positive NAV mode and ND ARCROSE NAV may be used
+ Step 4 If the check is negative HDGTRK mode and raw data must be used
+ Step 5 Consider switching off the terrain functions of the EGPWS
+ Step 6 When possible compare the FM position versus the GPIRS position on the POSITION MONITOR page
+ Step 7 If one FM position agrees with the GPIRS position on the POSITION MONITOR page Use the associated FDAP
+ Step 8 If not Deselect the GPS and revert to basic information","1. Accuracy: 2
+- The generated steps partially match the standard checklist for the NAV FM/GPS POS DISAGREE scenario, but the warning provided is ""MAP NOT AVAIL,"" which is not directly addressed in the standard checklist. The steps provided are relevant to navigation discrepancies but do not fully align with the specific warning.
+
+2. Comprehensiveness: 2
+- The generated steps provide detailed explanations and references, such as checking navigation accuracy and comparing FM and GPIRS positions, which are comprehensive for addressing navigation issues.
+
+3. Hallucination: 1
+- The response does not directly address the ""MAP NOT AVAIL"" warning, and the steps seem to be derived from a different scenario (NAV FM/GPS POS DISAGREE). Therefore, the content does not stem from the retrieved documents for the specific warning given.
+
+4. Conciseness: 1
+- The generated steps include additional steps that may not be necessary for the ""MAP NOT AVAIL"" warning, such as switching off terrain functions and comparing FM and GPIRS positions, which are more relevant to navigation discrepancies.
+
+Justification:
+The generated steps are somewhat accurate and comprehensive for a navigation discrepancy scenario but do not specifically address the ""MAP NOT AVAIL"" warning. There is a degree of hallucination as the steps are not directly applicable to the warning provided, and additional steps are included that may not be necessary for the specific warning.",2 2 1 1,4.751436425,4.710354624,0.008646186
+" Step 1 ATT HDG SWTG CAPT Set IR 3 to Captain
+ Step 2 GPWS TERR pushbutton OFF","1. Accuracy: 3
+   - The generated steps match the standard checklist for the scenario of a NAV IR 1+2 FAULT. The instruction to set IR 3 to Captain and switch off the GPWS TERR pushbutton is correct.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references to additional procedures that might be necessary, such as the IR ALIGNMENT IN ATT MODE procedure.
+
+3. Hallucination: 0
+   - The response is correct and does not contain any information that is not derived from the standard checklist.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include any unnecessary information beyond what is required for the specific warning.
+
+Justification: The generated steps accurately reflect the standard checklist for a NAV IR 1+2 FAULT, ensuring the correct actions are taken. However, the steps lack comprehensiveness as they do not provide additional context or references that could be useful for the pilot. The response is free from hallucinations and maintains conciseness by focusing solely on the necessary actions.",3 2 2 3 4 1,4.767932652,4.328706114,0.092120961
+" Step 1 ATT HDG SWTG if IR 3 in use NORM
+ Step 2 Refer to the IR ALIGNMENT IN ATT MODE procedure if necessary","1. Accuracy: 3
+   - The generated steps match the standard checklist for the NAV IR 3 FAULT scenario. The instruction to set ATT HDG SWTG to NORM and the reference to the IR ALIGNMENT IN ATT MODE procedure are correct.
+
+2. Comprehensiveness: 2
+   - The steps provide a reference to the IR ALIGNMENT IN ATT MODE procedure, which offers detailed explanations if needed.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no hallucinated information.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include any unnecessary information beyond what is required for the NAV IR 3 FAULT scenario.
+
+Justification:
+The generated steps accurately reflect the standard checklist for the NAV IR 3 FAULT scenario, providing the necessary actions and references without any extraneous information.",3 2 3 4 3,4.767932652,4.467200325,0.063073946
+" Step 1 AIR DATA SWTG  CAPT  Select ADR 3 if available to captain side
+ Step 2 ADR 1  OFF","1. Accuracy: 3 - The generated steps accurately match the standard checklist for the scenario of a NAV ADR 1 FAULT. The steps provided are correct and align with the expected procedure.
+
+2. Comprehensiveness: 1 - The generated steps do not provide detailed explanations or references beyond the basic actions required. They lack additional context or information that might be useful for understanding the procedure.
+
+3. Hallucination: 0 - The response is correct and does not include any information that is not derived from the standard checklist. There is no hallucination present.
+
+4. Conciseness: 0 - The generated steps are concise and do not include any unnecessary information or additional steps beyond what is required for the current warning.
+
+Justification: The instructions are accurate and concise, directly reflecting the standard checklist for a NAV ADR 1 FAULT. However, they lack comprehensiveness in terms of providing detailed explanations or references. There is no hallucination, as the steps are correctly derived from the standard procedure.",3 2 3 4 1,4.714831499,4.24965743,0.098661865
+" Step 1 AIR DATA SWTG if ADR 3 in use  NORM
+ Step 2 ADR 3  OFF","1. Accuracy: 3 - The generated steps accurately match the standard checklist for the scenario of an ADR 3 FAULT. The steps provided are correct and align with the standard procedure.
+
+2. Comprehensiveness: 2 - The generated steps provide detailed explanations and reference the necessary actions to be taken in the event of an ADR 3 FAULT, such as setting AIR DATA SWTG to NORM and turning ADR 3 OFF.
+
+3. Hallucination: 0 - The response is correct and does not contain any information that is not derived from the standard checklist. There is no hallucination present in the generated steps.
+
+4. Conciseness: 0 - The generated steps are concise and do not include any unnecessary information or additional steps that are not relevant to the ADR 3 FAULT warning.",3 2 3 3 4 3,4.714831499,3.971406746,0.157677905
+" Step 1 AIR DATA SWTG if ADR 3 in use  NORM
+ Step 2 ADR 3  OFF","1. Accuracy: 3
+- The generated steps match the standard checklist for an ADR 3 FAULT scenario. The instructions to set AIR DATA SWTG to NORM and turn ADR 3 OFF are correct.
+
+2. Comprehensiveness: 1
+- The generated steps do not provide any additional reference or detailed explanations. They are concise and to the point but lack depth.
+
+3. Hallucination: 0
+- The response is correct and aligns with the retrieved documents. There is no hallucination present.
+
+4. Conciseness: 0
+- The generated steps are concise and do not include any unnecessary information or additional steps beyond what is required for the ADR 3 FAULT scenario.
+
+Justification:
+The instructions are accurate and align with the standard checklist for the given scenario. However, they lack comprehensiveness as they do not provide any additional context or explanations. There is no hallucination, and the steps are concise, focusing only on the necessary actions.",3 3 1 0 0,4.714831499,3.971406746,0.157677905
+ Step 1 ATT HDG SWTG if IR 3 in use NORM,"1. Accuracy: 3
+   - The generated instruction matches the standard checklist for the scenario of an IR 3 fault. The step ""ATT HDG SWTG (if IR 3 in use): NORM"" is correctly identified as the necessary action.
+
+2. Comprehensiveness: 1
+   - The generated step does not provide any reference or detailed explanations. It only states the action to be taken without additional context or information.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no hallucinated information present.
+
+4. Conciseness: 0
+   - The generated step is concise and does not include any unnecessary information or additional steps beyond what is required for the IR 3 fault warning.
+
+Justification:
+The instruction accurately reflects the standard procedure for an IR 3 fault, ensuring that the correct action is taken. However, it lacks comprehensiveness as it does not provide any additional context or explanation that might be helpful for understanding the situation fully. The response is free from hallucinations and is concise, focusing solely on the necessary action.",3 3 1 0 0 3,4.767932652,4.001712212,0.160702866
+ Step 1 APU BLEED if not closed  OFF,"1. Accuracy: 3 - The generated step matches the standard checklist for the scenario, instructing to turn the APU BLEED off if not closed.
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanations about the procedure or the context of the warning.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist, with no hallucinated content.
+
+4. Conciseness: 0 - The generated step is concise and does not include any unnecessary information beyond what is required for the warning.
+
+Justification: The generated step accurately reflects the standard procedure for the given warning, but lacks additional context or explanation that could enhance understanding. There is no hallucinated content, and the instruction is concise, sticking strictly to the necessary action.",3 1 0 0,4.645228018,4.099665973,0.117445697
+ Step 1 No crew action required as long as cabin pressure is normal,"1. Accuracy: 2 - The instruction partially matches the standard checklist. It correctly states that no crew action is required as long as cabin pressure is normal, but it does not address the scenario where abnormal cabin vertical speed (ABN CAB V/S) is present.
+
+2. Comprehensiveness: 1 - The generated step lacks detailed explanations or references to other potential actions or considerations, such as the maximum flight level limitation or the nature of the avionics doors.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist for the scenario where cabin pressure is normal.
+
+4. Conciseness: 1 - The step is concise and directly relevant to the warning, but it does not provide additional steps or context that might be necessary if the cabin pressure were not normal.
+
+Justification: The generated step is accurate for the specific condition of normal cabin pressure but lacks comprehensiveness and additional context for other potential scenarios. It does not hallucinate information, but it could be more detailed to fully align with the standard checklist.",2 1 0 1,4.666819446,3.989978223,0.145032657
+ Step 1 No crew action required as long as cabin pressure is normal,"1. Accuracy: 2
+- The instruction partially matches the standard checklist. It correctly states that no crew action is required as long as cabin pressure is normal, which aligns with the checklist for in-flight scenarios. However, it does not address the specific warning ""DOOR L FWD CABIN"" or provide any steps for verifying the door warning on the ground, which is part of the standard procedure.
+
+2. Comprehensiveness: 1
+- The generated step lacks comprehensiveness as it does not provide detailed explanations or references to other necessary actions, such as verifying the door warning on the ground or addressing the situation if there is an abnormal increase in cabin altitude.
+
+3. Hallucination: 0
+- The response does not contain hallucinated information. It correctly states that no crew action is required if cabin pressure is normal, which is derived from the standard checklist.
+
+4. Conciseness: 1
+- The generated step is concise but omits necessary steps for a comprehensive response to the warning. It does not provide additional unnecessary steps, but it also fails to include all required actions for the scenario.
+
+Justification:
+The instruction is partially accurate but lacks comprehensiveness and does not fully address the specific warning. It does not include any hallucinated information, but it is not sufficiently detailed to cover all necessary actions according to the standard checklist.",2 1 0 1,4.580465441,3.989978223,0.128914239
+ Step 1 No crew action required as long as cabin pressure is normal,"1. Accuracy: 3 - The instruction accurately matches the standard checklist for the scenario, stating that no crew action is required as long as cabin pressure is normal.
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanations beyond the basic instruction.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist, with no hallucinated content.
+
+4. Conciseness: 0 - The generated step is concise and does not include any unnecessary information for the current warning.
+
+Justification: The instruction is accurate and concise, directly reflecting the standard checklist for the ""DOOR L AVIONICS"" warning. However, it lacks comprehensiveness as it does not provide additional context or explanations. There is no hallucination present, as the response is correct and based on the standard procedure.",3 1 0 0,4.666819446,3.989978223,0.145032657
+ Step 1 No crew action required as long as cabin pressure is normal,"1. Accuracy: 2
+- The instruction partially matches the standard checklist. It correctly states that no crew action is required as long as cabin pressure is normal, which aligns with the in-flight procedure. However, it does not address the scenario where there is an abnormal cabin altitude increase.
+
+2. Comprehensiveness: 1
+- The generated step lacks detailed explanations or references to other potential actions that might be necessary if the situation changes (e.g., abnormal cabin altitude increase).
+
+3. Hallucination: 0
+- The response is correct and derived from the standard checklist, as it states that no action is required if cabin pressure is normal.
+
+4. Conciseness: 0
+- The step is concise and does not include unnecessary information for the current warning. It directly addresses the scenario of normal cabin pressure without adding irrelevant details.
+
+Justification:
+The instruction is mostly accurate but lacks comprehensiveness because it does not cover all potential scenarios (e.g., abnormal cabin altitude increase). It does not hallucinate, as it aligns with the standard checklist, and it is concise, providing only the necessary information for the given situation.",2 1 0 0,4.580465441,3.989978223,0.128914239
+ Step 1 Crew awareness on the ground,"1. Accuracy: 2 - The instruction partially matches the standard checklist. It correctly identifies ""Crew awareness"" as a step on the ground, but it does not address the specific warning ""DOOR L FWD EMER EXIT"" or provide further steps for in-flight scenarios.
+
+2. Comprehensiveness: 1 - The generated step lacks detailed explanations or references to the specific warning or additional steps that may be necessary, especially for in-flight situations.
+
+3. Hallucination: 0 - The response is not incorrect, but it is incomplete. It does not introduce any information that is not derived from the standard checklist.
+
+4. Conciseness: 1 - The step provided is concise and relevant for the ground scenario, but it does not cover the full scope of actions required for the specific warning, especially for in-flight conditions.
+
+Justification: The generated step is partially accurate for ground operations but lacks comprehensiveness and detail for the specific warning and in-flight scenarios. It does not introduce incorrect information but is incomplete in addressing the full checklist requirements.",2 1 0 1,4.580465441,3.759622226,0.179205198
+ Step 1 Crew awareness,"1. Accuracy: 2 - The instruction ""Crew awareness"" is part of the standard checklist for a door warning on the ground, but it lacks the additional detail of confirming the warning by checking the visual indicator on the door.
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanation beyond the basic instruction of ""Crew awareness.""
+
+3. Hallucination: 0 - The response is correct and aligns with the retrieved document, as ""Crew awareness"" is a valid step for a door warning on the ground.
+
+4. Conciseness: 0 - The step is concise and does not include any unnecessary information for the current warning.
+
+Justification: The generated step is partially accurate but lacks comprehensiveness as it does not include the additional verification step mentioned in the standard checklist. It is concise and does not hallucinate any information.",2 1 0 0,4.580465441,3.368522528,0.264589468
+" Step 1 Confirm cabin pressure is normal If normal no action is required
+ Step 2 If abnormal cabin vertical speed VS is detected limit maximum flight level to FL100 or MEA
+ Step 3 If door warning is accompanied by an abnormal increase in cabin altitude reduce cabin ΔP and descend","1. Accuracy: 3
+   - The generated steps accurately match the standard checklist for the scenario. It correctly identifies the need to confirm cabin pressure and outlines the actions to take if there is an abnormal cabin vertical speed or increase in cabin altitude.
+
+2. Comprehensiveness: 2
+   - The steps provide detailed explanations and reference the necessary actions to take in response to the warning, including checking cabin pressure and adjusting flight level if needed.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist, with no hallucinated information present.
+
+4. Conciseness: 0
+   - The generated steps are concise and directly relevant to the warning, with no additional unnecessary steps included.
+
+Justification: The generated steps are accurate, comprehensive, and concise, providing a clear and correct response to the DOOR R FWD CABIN warning scenario without any hallucinated information.",3 2 0 0,4.580465441,4.388419958,0.041927067
+ Step 1 No crew action required as long as cabin pressure is normal,"1. Accuracy: 2 - The instruction partially matches the standard checklist for the scenario. It correctly states that no crew action is required as long as cabin pressure is normal, but it does not address the specific conditions under which action would be necessary (e.g., ABN CAB V/S).
+
+2. Comprehensiveness: 1 - The generated steps lack detailed explanations or references to the specific conditions (like ABN CAB V/S) that would require further action.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist, as it accurately reflects the instruction for when cabin pressure is normal.
+
+4. Conciseness: 0 - The generated steps do not provide any unnecessary information or additional steps beyond what is required for the current warning.
+
+Justification: The generated steps are accurate in stating that no action is needed if cabin pressure is normal, but they lack comprehensiveness by not addressing what to do if cabin pressure is abnormal. There is no hallucination, as the response is correct, and it is concise, providing only the necessary information for the given condition.",2 1 0 0,4.666819446,3.989978223,0.145032657
+" Step 1 Crew awareness
+ Step 2 Confirm cargo door warning by removing the detachable inspection panel on the base of the cargo door","1. Accuracy: 3
+   - The generated steps match the standard checklist for the scenario. Step 1 addresses crew awareness, and Step 2 involves confirming the cargo door warning by inspecting the panel, which aligns with the standard procedure for a cargo door warning on the ground.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references beyond the basic actions. They are straightforward but lack additional context or guidance that might be helpful.
+
+3. Hallucination: 0
+   - The response is correct and derived from the standard checklist. There is no hallucinated information present in the steps.
+
+4. Conciseness: 0
+   - The steps provided are necessary and relevant to the current warning. There are no additional or unnecessary steps included.
+
+Justification: The generated steps are accurate and concise, directly reflecting the standard checklist for a cargo door warning on the ground. However, they lack comprehensive details or references that could enhance understanding or execution. There is no hallucination, as the steps are correctly aligned with the standard procedures.",3 2 1 0 0,4.580465441,4.159282512,0.091951994
+ Step 1 No crew action required as long as cabin pressure is normal,"1. Accuracy: 2
+- The instruction partially matches the standard checklist. It correctly states that no crew action is required as long as cabin pressure is normal, which aligns with the in-flight procedure. However, it does not address the scenario of an abnormal cabin altitude increase.
+
+2. Comprehensiveness: 1
+- The generated step lacks comprehensiveness as it does not provide any reference or detailed explanation regarding the potential need to limit flight level or descend in case of abnormal cabin altitude increase.
+
+3. Hallucination: 0
+- The response is correct and does not contain any information that is not derived from the standard checklist.
+
+4. Conciseness: 0
+- The step is concise and does not include unnecessary information for the current warning.
+
+Justification:
+The generated step is partially accurate but lacks comprehensiveness as it does not address all potential actions required in the scenario. It is concise and free from hallucination, but it needs to include more detailed instructions for situations where cabin altitude might increase abnormally.",2 1 0 0,4.580465441,3.989978223,0.128914239
+" Step 1 Confirm cabin door warning by checking the visual indicator on the door
+ Step 2 Ensure cabin pressure is normal if not reduce cabin ΔP and altitude by descending
+ Step 3 Limit maximum flight level to FL100 or MEA if abnormal cabin vertical speed is detected","1. Accuracy: 3
+   - The generated steps accurately reflect the standard checklist for the scenario. Step 1 matches the confirmation of a cabin door warning, and Steps 2 and 3 align with actions required if there is an abnormal cabin vertical speed.
+
+2. Comprehensiveness: 2
+   - The steps provide a reference to the standard checklist actions and include detailed explanations for each step, ensuring clarity in the procedure.
+
+3. Hallucination: 0
+   - The response is correct and aligns with the standard checklist without introducing any information not derived from the checklist.
+
+4. Conciseness: 0
+   - The generated steps are concise and do not include unnecessary information beyond what is required for the current warning.
+
+Justification: The instructions provided are accurate, comprehensive, free from hallucinations, and concise, adhering closely to the standard checklist for the given scenario.",3 2 2 3 4,4.580465441,4.427320417,0.03343438
+ Step 1 Crew awareness,"1. Accuracy: 2 - The instruction partially matches the standard checklist for the scenario. It correctly identifies ""Crew awareness"" as a necessary step on the ground, but it does not address the in-flight scenario or the specific actions required if cabin pressure is abnormal.
+
+2. Comprehensiveness: 1 - The generated step lacks detailed explanations or references to the specific actions required in different phases of flight (ground vs. in-flight) or conditions (normal vs. abnormal cabin pressure).
+
+3. Hallucination: 0 - The response is not incorrect or derived from any unrelated documents. It is a simplified version of the checklist but does not introduce any false information.
+
+4. Conciseness: 1 - The generated step is concise but omits necessary steps for a comprehensive response, especially for in-flight conditions. It does not provide additional unnecessary steps, but it lacks completeness.
+
+Justification: The generated step is partially accurate and concise but lacks comprehensiveness and detail, especially for in-flight scenarios. It does not hallucinate information but fails to provide a complete set of instructions for the given warning.",2 1 0 1,4.580465441,3.368522528,0.264589468
+" Step 1 Crew awareness on the ground
+","1. Accuracy: 2
+   - The instruction partially matches the standard checklist for the scenario. It correctly identifies ""Crew awareness (on the ground)"" as a step, but it does not mention checking the visual indicator or removing the detachable inspection panel for confirmation.
+
+2. Comprehensiveness: 1
+   - The generated step lacks detailed explanations or references to specific actions that should be taken, such as checking the visual indicator or the inspection panel.
+
+3. Hallucination: 0
+   - The response is not incorrect, but it is incomplete. It does not introduce any information that is not derived from the standard checklist.
+
+4. Conciseness: 0
+   - The generated step is concise and does not include unnecessary information. However, it is too brief and lacks necessary details for the warning.
+
+Justification: The instruction provides a basic step that is part of the standard checklist but fails to include all necessary actions and details for confirming a cargo door warning. It does not hallucinate additional information but is not comprehensive enough to be fully useful.",2 1 0 0,4.580465441,3.837266881,0.162253939
+ Step 1 Crew awareness,"1. Accuracy: 2
+   - The instruction ""Crew awareness"" is accurate for the ground scenario, but it lacks the specific actions for confirming the warning, such as checking the visual indicator on the door.
+
+2. Comprehensiveness: 1
+   - The generated step does not provide detailed explanations or references to the standard checklist actions, such as checking the visual indicator or removing the inspection panel.
+
+3. Hallucination: 0
+   - The response is not incorrect or derived from any non-retrieved documents. It is a simplified version of the standard checklist.
+
+4. Conciseness: 1
+   - The step is concise but omits necessary details for confirmation of the warning, which are part of the standard checklist.
+
+Justification: The generated step captures the essence of crew awareness but lacks the detailed actions required for confirming the warning, especially on the ground. It does not provide comprehensive guidance or reference to the standard checklist, which affects its overall effectiveness.",2 1 0 1,4.580465441,3.368522528,0.264589468
+ Step 1 EIS DMC SWITCH CAPT  DMC 3 replaces DMC 1,"1. Accuracy: 3 - The instruction accurately matches the standard checklist for the scenario, as it correctly identifies the step to replace DMC 1 with DMC 3 using the EIS DMC switch for the Captain.
+
+2. Comprehensiveness: 1 - The generated step does not provide any reference or detailed explanations beyond the basic instruction.
+
+3. Hallucination: 0 - The response is correct and does not include any information that is not derived from the standard checklist.
+
+4. Conciseness: 0 - The generated step is concise and does not include any unnecessary information or additional steps beyond what is required for the warning.
+
+Justification: The generated step is accurate and concise, directly matching the standard checklist for the given warning. However, it lacks comprehensiveness as it does not provide any additional context or explanation. There is no hallucination present, as the instruction is correct and derived from the standard procedure.",3 3 1 0 0,4.092244449,3.948409018,0.035148299
+Im sorry but the provided checklist does not contain any actionable steps for addressing the EIS DMC 2 FAULT warning Please provide the relevant checklist for this specific warning,"1. Accuracy: 1
+   - The generated instruction does not match the standard checklist for the scenario. It fails to provide any steps related to the ""EIS DMC 2 FAULT"" warning, which is not addressed in the provided checklist.
+
+2. Comprehensiveness: 1
+   - The response does not provide any reference or detailed explanations for the ""EIS DMC 2 FAULT"" warning. It simply states that the checklist does not contain actionable steps, which is not helpful.
+
+3. Hallucination: 0
+   - The response does not contain any incorrect information that is not derived from the retrieved documents. It accurately states that the checklist does not cover the specific warning.
+
+4. Conciseness: 0
+   - The response is concise and does not include unnecessary steps or information. However, it lacks the necessary steps to address the warning.
+
+Justification:
+The evaluation reflects the lack of actionable steps for the specific warning, the absence of detailed explanations or references, and the accurate but unhelpful acknowledgment of the checklist's limitations.",1 2 2 0 0,4.763907558,4.436718,0.068680921
+ Step 1 EIS DMC SWITCH FO  DMC 3 replaces DMC 2,"1. Accuracy: 2
+   - The instruction partially matches the standard checklist. It correctly identifies the action for DMC 2, but it does not address the DMC 3 fault.
+
+2. Comprehensiveness: 1
+   - The generated step does not provide any reference or detailed explanations beyond the basic action.
+
+3. Hallucination: 0
+   - The response is correct in the context of the retrieved document for DMC 2, and there is no additional incorrect information.
+
+4. Conciseness: 0
+   - The step is concise and does not include unnecessary information.
+
+Justification: The generated step accurately addresses the EIS DMC 2 FAULT by instructing to switch to DMC 3, which aligns with the standard checklist. However, it fails to address the DMC 3 fault, which is a critical omission. The instruction is straightforward without additional context or explanation, and it does not include extraneous steps.",2 3 1 0 4 2 3,4.092244449,3.979288851,0.027602358
+ Step 1 Crew awareness,"1. Accuracy: 1
+   - The instruction does not match the standard checklist for the scenario of ENG 2 FAIL. The generated step only mentions ""Crew awareness,"" which is insufficient for addressing an engine failure.
+
+2. Comprehensiveness: 1
+   - The generated step does not provide any reference or detailed explanations. It lacks the necessary steps and information required for handling an engine failure situation.
+
+3. Hallucination: 1
+   - The response is incorrect and does not stem from the retrieved documents or standard checklist for an engine failure scenario. It appears to be a generic response not tailored to the specific warning.
+
+4. Conciseness: 0
+   - The generated step is overly concise and does not provide any additional or unnecessary steps. However, it fails to include the necessary steps for the current warning, making it inadequate.
+
+Justification: The generated step is not aligned with the standard checklist for an engine failure scenario, lacks comprehensiveness, and does not provide the necessary actions required. It is overly concise and does not address the specific warning of ENG 2 FAIL.",1 2 3 4 2,4.091171821,3.368522528,0.176636261
+Im sorry but the provided checklist does not contain specific steps or actions to address the ENG 2 FAIL warning based on the relevant parameters The checklist seems to address ignition faults rather than engine failure Please provide a checklist specific to engine failure for accurate instructions,"1. Accuracy: 1 - The generated steps do not match the standard checklist for the ""ENG 2 FAIL"" scenario. The response incorrectly focuses on ignition faults rather than engine failure.
+
+2. Comprehensiveness: 1 - The response does not provide any detailed explanations or references to specific actions for the ""ENG 2 FAIL"" warning.
+
+3. Hallucination: 0 - The response correctly identifies that the provided checklist does not contain steps for the ""ENG 2 FAIL"" warning, so there is no hallucination.
+
+4. Conciseness: 0 - The response does not provide unnecessary steps for the current warning; it simply states the lack of relevant information.
+
+Justification: The response fails to address the specific warning of ""ENG 2 FAIL"" and instead focuses on ignition faults, which are not relevant to the scenario. It lacks detailed instructions or references for handling an engine failure, and while it correctly identifies the mismatch, it does not offer any useful guidance for the situation.",1 2 2 0 4 2,4.091171821,4.213515185,-0.029904235
+" Step 1 THR LEVER affected engine  IDLE
+ Step 2 ENG MASTER affected engine  OFF","1. Accuracy: 2
+   - The generated steps partially match the standard checklist for the scenario. It correctly includes setting the throttle lever to idle and turning off the engine master for the affected engine. However, it lacks differentiation between on-ground and in-flight procedures and does not address conditions like FADEC setting or buffet.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references to specific conditions such as FADEC settings or the presence of buffet, which are important for a comprehensive response.
+
+3. Hallucination: 0
+   - The response is correct and does not contain any information that is not derived from the standard checklist.
+
+4. Conciseness: 1
+   - The generated steps are concise but omit necessary steps for different scenarios (e.g., on-ground vs. in-flight, FADEC conditions). It does not provide additional unnecessary steps, but it lacks completeness for the warning context.
+
+Justification: The generated steps are partially accurate and concise but lack comprehensiveness and differentiation for specific conditions outlined in the standard checklist.",2 1 0 1,4.732257571,4.274176996,0.096799586
+ Step 1 THR LEVER 1 IDLE,"1. Accuracy: 3 - The instruction ""THR LEVER 1............................. IDLE"" matches the standard checklist for the scenario where the reverse thrust system is pressurized, and the reverser doors are stowed and locked. It accurately reflects the necessary action to take in response to the warning.
+
+2. Comprehensiveness: 1 - The generated step does not provide any additional reference or detailed explanation beyond the basic instruction. It lacks context or rationale for the action, which would be beneficial for comprehensive understanding.
+
+3. Hallucination: 0 - The response is correct and aligns with the standard checklist for the given warning. There is no evidence of information that is incorrect or not derived from the standard procedure.
+
+4. Conciseness: 0 - The generated step is concise and directly addresses the warning without including unnecessary information or steps that are not relevant to the current warning.
+
+Justification: The generated instruction is accurate and concise, directly reflecting the standard procedure for the given warning. However, it lacks comprehensiveness as it does not provide additional context or explanation, which could enhance understanding and situational awareness for the crew. There is no hallucination present, as the instruction is correct and derived from the standard checklist.",3 2 3 4,4.647080529,3.490601563,0.2488614
+" Step 1 THR LEVER affected IDLE
+ Step 2 ENG MASTER affected OFF
+ Step 3 ENG FIRE PB affected PUSH
+ Step 4 AGENT 1 AFT 10 S DISCH
+ Step 5 ATC NOTIFY","1. Accuracy: 3
+   - The generated steps match the standard checklist for the ENG 1(2) FIRE (in flight) actions. Each step corresponds accurately to the standard procedure.
+
+2. Comprehensiveness: 2
+   - The generated steps provide a clear sequence of actions but lack detailed explanations or references that are present in the standard checklist, such as the reasoning behind the 10-second delay for AGENT 1 discharge.
+
+3. Hallucination: 0
+   - The response is correct and does not include any information that is not derived from the standard checklist.
+
+4. Conciseness: 1
+   - The generated steps are concise and do not include unnecessary information for the current warning. However, they do not provide additional context or explanations that could be useful for understanding the rationale behind each action.
+
+Overall, the generated steps are accurate and concise, but they could benefit from more comprehensive explanations to enhance understanding.",3 2 2 1 0 1,4.716032906,4.472248437,0.051692699
+" Step 1 ENG MODE SEL  IGN
+ Step 2 THR LEVER affected engine  IDLE
+ Step 3 ENG MASTER affected engine  OFF if no engine relight","1. Accuracy: 2
+   - The generated steps partially match the standard checklist for an engine failure scenario, but they are not complete. The steps for ""ENG MODE SEL - IGN"" and ""THR LEVER (affected engine) - IDLE"" are correct, but the instruction to turn ""ENG MASTER (affected engine) - OFF if no engine relight"" is not detailed enough compared to the standard checklist.
+
+2. Comprehensiveness: 1
+   - The generated steps do not provide detailed explanations or references for each action, which are necessary for a comprehensive understanding of the procedure.
+
+3. Hallucination: 0
+   - The response does not contain any hallucinated information. The steps provided are derived from the standard checklist, although they are incomplete.
+
+4. Conciseness: 1
+   - The generated steps are concise and do not include unnecessary information. However, they lack some necessary steps and details for the specific warning of ""ENG 1 FAIL, AIR BLEED.""
+
+Justification: The generated steps are partially accurate but lack comprehensiveness and detail. They do not include all necessary actions from the standard checklist, particularly regarding the conditions for engine relight and actions if there is damage. The response is concise but at the expense of missing critical information.",2 1 0 1,4.726739393,4.378473972,0.073679844
+ Step 1 LAND ASAP,"1. Accuracy: 1
+   - The instruction ""LAND ASAP"" does not match the standard checklist for an overspeed scenario, which involves monitoring and adjusting airspeed to within specified limits (VMO/MMO, VLE, VFE).
+
+2. Comprehensiveness: 1
+   - The generated step does not provide any reference or detailed explanation related to the overspeed condition or the standard checklist procedures.
+
+3. Hallucination: 1
+   - The instruction ""LAND ASAP"" is not derived from the standard checklist for overspeed and does not appear to be based on any retrieved documents related to overspeed procedures.
+
+4. Conciseness: 0
+   - The step provided is not necessary for addressing the overspeed warning and does not include additional unnecessary steps. However, it lacks the necessary steps to address the warning properly.
+
+Justification:
+The generated step fails to address the specific actions required for an overspeed warning as per the standard checklist. It lacks accuracy and comprehensiveness, and the instruction appears to be a hallucination as it is not derived from relevant documents or procedures. Additionally, it does not provide any unnecessary steps, but it also does not provide the necessary ones.",1 1 1 0,4.484321623,3.219528282,0.282047865
+,,,4.62 ,4.07596665,0.118398447
